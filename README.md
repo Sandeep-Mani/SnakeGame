@@ -25,3 +25,9 @@ $ mvn install
 $ cd target
 $ java -jar "Snake Game-SnakeGame.jar"
 ```
+
+
+## Game Play
+
+![Game Start](/images/Start.png)
+![Game Play](/images/Mid.png)
