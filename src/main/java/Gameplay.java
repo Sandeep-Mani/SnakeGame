@@ -248,6 +248,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener {
 			moves = 0;
 			score = 0;
 			level = 1;
+			delay = 100;
 			lengthSnake = 3;
 			repaint();
 		}
