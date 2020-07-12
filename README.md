@@ -31,3 +31,4 @@ $ java -jar "Snake Game-SnakeGame.jar"
 
 ![Game Start](/images/Start.png)
 ![Game Play](/images/Mid.png)
+![Game Over](/images/GaveOver.png)
